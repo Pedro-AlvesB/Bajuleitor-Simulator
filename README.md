@@ -203,21 +203,21 @@ Exemplo:
 
 1. Escolha seu bajulador
 
-👔 Corporativo
-❤️ Romântico
-👨‍👦 Paterno
-🤝 Companheiro
-👥 Amigo
+ -Corporativo
+ -Romântico
+ -Paterno
+-Companheiro
+-Amigo
 
 2. Escolha o motivo
 
-😔 Estou triste
-😰 Estou ansioso
-💼 Estou estressado
-💔 Levei um fora
-📚 Fui mal em uma prova
-🫠 Estou exausto
-👑 Só quero ser bajulado
+-Estou triste
+-Estou ansioso
+-Estou estressado
+-Levei um fora
+-Fui mal em uma prova
+-Estou exausto
+-Só quero ser bajulado
 
 3. Receba sua bajulação
 
@@ -229,17 +229,16 @@ O Bajuleitor Simuleitor será uma plataforma de entretenimento baseada em person
 
 A plataforma combinará:
 
-🎭 Personagens;
-💬 Mensagens de bajulação;
-😂 Humor;
-❤️ Mensagens positivas;
-🎨 Personalização controlada;
-🎮 Dinâmicas interativas;
-🌟 Diferentes situações e categorias.
+-Personagens;
+-Mensagens de bajulação;
+-Humor;
+-Mensagens positivas;
+-Personalização controlada;
+-Dinâmicas interativas;
+-Diferentes situações e categorias.
 
 A ideia central é simples:
 
 Quando você precisar ouvir que é incrível, o Bajuleitor estará lá para bajular você.
 
 
-Essa versão deixa a documentação com uma estrutura mais próxima de um **documento de projeto**, separando clarament
