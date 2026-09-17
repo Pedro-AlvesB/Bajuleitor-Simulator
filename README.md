@@ -104,6 +104,25 @@ Essas situações serão tratadas de maneira **leve, cômica e acolhedora**, sem
 | **Estresse no trabalho** | Diminuir a tensão e reconhecer o esforço do usuário. | "Seu trabalho pode estar acabando com sua paciência, mas pelo menos continua provando que você é resistente." |
 
 ---
+## Requisitos
+**Requesitos funcionais**
+|usuário e senha
+|email 
+|internet
+**Requesitos Não funcionais**
+|software atualizado
+| velocidade de conexão rapida
+| hardware atualaizado
+**Regras de negócio**
+| usuarios sem direito de criação de conteudo final
+**Perfis tipos de usuários
+| usuário
+|admin
+** Principais funcionalidades da aplicação **
+|geração de textos de  suporto e motivcação
+
+
+
 
 # 6. Sistema de mensagens
 
